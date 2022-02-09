@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Sofia Diaz Zapata
+// 000165777
+// sofia.diaz@upb.edu.co
 (START)
     @START
     0;JMP
